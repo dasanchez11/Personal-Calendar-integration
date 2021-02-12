@@ -1,0 +1,9 @@
+.sign-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin: 0 3%;
+  .option {
+      cursor: pointer;
+  }
+}
